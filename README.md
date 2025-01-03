@@ -1,5 +1,6 @@
 # Leetcode-2270
 # C++ Code
+
 class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
