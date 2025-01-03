@@ -19,7 +19,7 @@ public:
         }
         return count;
     }
-};
+}
 
 # Java Code
 
